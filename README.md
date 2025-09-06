@@ -30,4 +30,4 @@ ve makine öğrenmesi modelleri için hazır veri seti oluşturulmasıdır.
 pip install -r requirements.txt
 
 # Jupyter Notebook'u çalıştır
-jupyter notebook notebooks/EDA_pipeline.ipynb
+jupyter notebook notebooks/EDA_case_study.ipynb
